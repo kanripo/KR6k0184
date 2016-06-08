@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:46:02.156530
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:44
 #+TITLE: 律相感通傳
 #+PROPERTY: CBETA_ID T45n1898
 #+PROPERTY: ID KR6k0184
@@ -14,7 +14,7 @@
 ¶
 No.1898¶
 
-重刻律相感通傳序
+* 重刻律相感通傳序
 :PROPERTIES:
 :head: 重刻律相感通傳序
 :END:
@@ -126,7 +126,7 @@ No.1898¶
 事出前聞。非為徒說。後諸緣敘並依出而疏¶
 之。¶
 
-初問佛事
+* 初問佛事
 :PROPERTIES:
 :head: 初問佛事
 :END:
